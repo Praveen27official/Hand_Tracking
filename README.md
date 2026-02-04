@@ -70,7 +70,7 @@ Particles dynamically morph into different shapes and respond in real time using
 - ❌ Safari (WebGL + camera issues)
 
 ## Author
-**Srithar AG**
+**Praveen R**
 
 - Frontend Developer | 3D Web | Computer Vision
 
